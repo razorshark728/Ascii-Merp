@@ -1,9 +1,9 @@
 $frames = @(
-    "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/blob/main/frame1.txt",
-     "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/blob/main/frame2.txt",
-      "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/blob/main/frame3.txt",
-       "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/blob/main/frame4.txt",
-    "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/blob/main/frame5.txt"
+    "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/main/frame1.txt",
+     "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/main/frame2.txt",
+      "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/main/frame3.txt",
+       "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/main/frame4.txt",
+    "https://raw.githubusercontent.com/razorshark728/Ascii-Merp/main/frame5.txt"
     # Add more URLs here
 )
 
